@@ -73,7 +73,7 @@ export const Results = ({ navigation, questions, score }) => (
                     <Text style={styles.headerLine}>
                         { score }
                         {'/'}
-                        {questions.length}
+                        { questions.length }
                     </Text>
                 </View>
             )}
