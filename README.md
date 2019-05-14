@@ -1,4 +1,4 @@
-#The Trivia Challenge, by Fool-Hardy Designs
+# The Trivia Challenge, by Fool-Hardy Designs
 
 My answer to the challenge here, after a couple days' coding:
 
