@@ -10,7 +10,7 @@ export default {
         //     suppliedAnswer: null // string
         // }
     ],
-    length: 5, // int
+    length: 10, // int
     difficulty: 'hard', // easy, medium
     quizType: null, // multiple, null
     isFetching: false,
